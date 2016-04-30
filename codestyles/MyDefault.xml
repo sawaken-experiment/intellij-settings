@@ -1,5 +1,8 @@
 <code_scheme name="MyDefault">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
   <codeStyleSettings language="JAVA">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
